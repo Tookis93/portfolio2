@@ -1,0 +1,31 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Poppins', sans-serif;
+}
+.pre {
+	width: 1000px;
+	
+	margin-left: auto;
+  	margin-right: auto;
+}
+.pre h1 {
+	color: #b73be5;
+}
+strong {
+	color: #b73be5;
+}
+
+
+#image h1 {
+	background-color: white;
+	opacity: 0.80;
+	position: absolute;
+	/*top: 500px;*/
+	display: inline-block;
+	
+
+	border-radius: 10px;
+	text-align: center;
+	color: #b73be5;
+}
